@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmaticProgressionApp", "ArithmaticProgressionApp\ArithmaticProgressionApp.csproj", "{5DEDE9DC-307A-4854-8A72-23EF782DFD55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressionLibrary", "ProgressionLibrary\ProgressionLibrary.csproj", "{34D5D72E-B8F8-4A81-BA9A-1BEC113D40A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DEDE9DC-307A-4854-8A72-23EF782DFD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEDE9DC-307A-4854-8A72-23EF782DFD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEDE9DC-307A-4854-8A72-23EF782DFD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEDE9DC-307A-4854-8A72-23EF782DFD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D5D72E-B8F8-4A81-BA9A-1BEC113D40A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D5D72E-B8F8-4A81-BA9A-1BEC113D40A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D5D72E-B8F8-4A81-BA9A-1BEC113D40A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D5D72E-B8F8-4A81-BA9A-1BEC113D40A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7553E1-B474-4A81-B24E-6791944CF968}
+	EndGlobalSection
+EndGlobal

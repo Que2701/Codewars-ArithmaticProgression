@@ -1,0 +1,10 @@
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\bin\Debug\ArithmaticProgressionApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\bin\Debug\ArithmaticProgressionApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\bin\Debug\ArithmaticProgressionApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\bin\Debug\ProgressionLibrary.dll
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\bin\Debug\ProgressionLibrary.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\obj\Debug\ArithmaticProgressionApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\obj\Debug\ArithmaticProgressionApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\obj\Debug\ArithmaticProgressionApp.csproj.CopyComplete
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\obj\Debug\ArithmaticProgressionApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ArithmaticProgressionApp\obj\Debug\ArithmaticProgressionApp.pdb

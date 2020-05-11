@@ -1,0 +1,6 @@
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ProgressionLibrary\bin\Debug\ProgressionLibrary.dll
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ProgressionLibrary\bin\Debug\ProgressionLibrary.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ProgressionLibrary\obj\Debug\ProgressionLibrary.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ProgressionLibrary\obj\Debug\ProgressionLibrary.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ProgressionLibrary\obj\Debug\ProgressionLibrary.dll
+D:\Source\Repos\Projects\Codewars\Codewars-ArithmaticProgression\ArithmaticProgressionDemo\ProgressionLibrary\obj\Debug\ProgressionLibrary.pdb
