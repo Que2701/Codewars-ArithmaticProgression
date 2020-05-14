@@ -9,19 +9,23 @@ namespace ProgressionLibrary
         public static int FindMissingProgression(List<int> numbers)
         {
             var step = (numbers.Last() - numbers.First()) / numbers.Count;
-            int current = numbers.First();
+            var current = numbers.First();
+            var missingArithmatic = 0;
 
-            for (int i = 0; i < numbers.Count; i++)
+            numbers.ForEach(n =>
             {
-                if (numbers[i] != current)
+                if (current == n)
                 {
-                    return current;
+                    current += step;
                 }
-                
-                current += step;
-            }
+                else
+                {
+                    missingArithmatic = current;
+                    return;
+                }
+            });
 
-            throw new ArgumentException("No missing values were found in the provided list.");
+            return missingArithmatic;
         }
     }
 }
